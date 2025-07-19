@@ -5,6 +5,7 @@
 }
 
 input:focus{
+
     outline: none;
 }
 button:focus{

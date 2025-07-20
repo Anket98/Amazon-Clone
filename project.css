@@ -28,7 +28,7 @@ button:focus{
 .logo{
     height: 50px;
     width: 100%;
-    background-image: url("amazone.jpg");
+    background-image: url("images/amazone.jpg");
     background-size: cover;
 }
 .border{
@@ -141,7 +141,7 @@ margin-left: 15px;
     /* hero section */
 
     .hero-section{
-        background-image: url(hero-section.jpg);
+        background-image: url(images/hero-section.jpg);
         height: 300px;
         background-size: cover;
         display: flex;
